@@ -3,9 +3,7 @@
 A simple and responsive QR Code component built using HTML and CSS. This is a solution to the [Frontend Mentor QR Code Component Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## 📸 Preview
-(https://github.com/user-attachments/assets/faf133c0-4812-4f7d-b45f-b00b5b924409)
-
-
+![qrcode_scrnshot](https://github.com/user-attachments/assets/a99a2182-d001-4bcb-9fcb-dfe94c92b2b5)
 
 ## 🚀 Features
 
